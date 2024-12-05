@@ -28,7 +28,7 @@ A Python-based web scraper for extracting product information from Larodan's web
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/larodan-scraper.git
+git clone https://github.com/davduran/larodan-scraper.git
 cd larodan-scraper
 ```
 
